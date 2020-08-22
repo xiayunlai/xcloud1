@@ -8,15 +8,12 @@
         <version>2.3.3.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
+
     <groupId>com.ruyue.xcloud</groupId>
     <artifactId>xcloud</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>xcloud</name>
     <description>Demo project for Spring Boot</description>
-
-    <properties>
-        <java.version>8</java.version>
-    </properties>
 
     <dependencies>
         <dependency>
